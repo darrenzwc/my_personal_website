@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a highschool student at McKinney Boyd High School.
 
 ## Research Interests
 
@@ -13,9 +13,9 @@ I am a Ph.D. student at ...
 
 ## Hobbies
 
-- Guitar
+- Cello
 - Tennis
-- Swimming
+- Gaming
 
 ## News
 - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
